@@ -10,7 +10,7 @@
 
 
 
-#### Setup Conda Environment
+### Setup Conda Environment
 use this command to create a conda environment (all the required packages are listed in "renunet_env.yml" file)
 ```
 conda env create -f renunet_env.yml
