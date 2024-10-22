@@ -13,13 +13,13 @@
 link: https://monuseg.grand-challenge.org/
 
 ### TNBC - Triple-negative breast cancer
-link: https://monuseg.grand-challenge.org/
+link: https://zenodo.org/records/1175282#.YMisCTZKgow
 
 ### DSB - 2018 Data Science Bowl
-link: https://monuseg.grand-challenge.org/
+link: https://www.kaggle.com/c/data-science-bowl-2018/data
 
 ### EM - Electron Microscopy
-link: https://monuseg.grand-challenge.org/
+link: https://www.epfl.ch/labs/cvlab/data/data-em/
 
 
 
