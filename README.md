@@ -58,22 +58,23 @@ patch_img_size=256
 patch_step_size=128
 ```
 
-- Set `resize_img=False` if full image sizes have different width and height.
+
 
 ```ini
 resize_img=True
 resize_height_width=1024
 ```
+- Set `resize_img=False` if full image sizes have different width and height.
+
 
 ### Parameters for processing full-size images and masks:
 
-- If `resize_full_images=False`, full-size images are not scaled down, but evaluation takes more time.
+
 
 ```ini
 resize_full_images=True
 ```
+- If `resize_full_images=False`, full-size images are not scaled down, but evaluation takes more time.
 
 ---
 
-### Notes:
-- Make sure the paths and parameters are configured correctly in `config.txt` before running the code.
