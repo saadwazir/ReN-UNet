@@ -75,8 +75,6 @@ patch_step_size=128
 resize_img=True #set resize_img=False if full image sizes have different width and height.
 resize_height_width=1024
 
-
-
 -- Parameters for processing full-size images and masks:
 resize_full_images=True #if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
 
