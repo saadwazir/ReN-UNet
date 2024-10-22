@@ -41,7 +41,7 @@ you can generate patches using Image_Patchyfy. Link : https://github.com/saadwaz
 ### Offline Data Augmentation
 (it requires albumentations library link: https://albumentations.ai)
 
-use "offline_augmentation.py" to generet augmented samples
+use "offline_augmentation.py" to generate augmented samples
 
 
 
