@@ -6,7 +6,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/Computational_Pathology-e06666?style=for-the-badge" alt="Computational Pathology"></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-
+<a href="#"><img src="https://img.shields.io/badge/MICAD_2024-e06666?style=for-the-badge" alt="Computational Pathology"></a>
 
 
 
