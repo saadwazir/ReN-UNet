@@ -22,8 +22,8 @@ mask_full_test_directory=/mnt/hdd_2A/datasets/monuseg_org/test/mask/
 training=False
 
 gpu_device=0
-num_epochs=2
-batch_size=6
+num_epochs=200
+batch_size=8
 imgz_size=256
 
 ################################################################
