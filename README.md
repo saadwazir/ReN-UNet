@@ -31,9 +31,11 @@ you can generate patches using Image_Patchyfy. Link : https://github.com/saadwaz
 use "offline_augmentation.py" to generet augmented samples
 
 
+
+
 ## Training and Testing
 
-1. Edit the `config.txt` file to set training parameters and define folder paths.
+1. Edit the `config.txt` file to set training and testing parameters and define folder paths.
 2. Run the `ren-unet.py` file in a conda environment. It contains the model, training, and testing code.
 
 
@@ -78,5 +80,6 @@ resize_height_width=1024
 -- Parameters for processing full-size images and masks:
 resize_full_images=True #if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
 
-
+---
+---
 
