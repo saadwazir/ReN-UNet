@@ -29,6 +29,10 @@ link: https://monuseg.grand-challenge.org/
 1. Edit the `config.txt` file to set training parameters and define folder paths.
 2. Run the `ren-unet.py` file in a conda environment. It contains the model, training, and testing code.
 
+
+
+
+
 ---
 
 ## Configurations
