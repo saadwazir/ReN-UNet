@@ -38,13 +38,13 @@ link: https://www.epfl.ch/labs/cvlab/data/data-em/
 ## Configurations
 ```ini
 
-### Paths for training
+- Paths for training
 - Define paths for folders that contain patches of images and masks for training.
 train_images_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/images/
 train_masks_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/masks/
 
 
-### Paths for testing
+- Paths for testing
 - Define paths for numpy arrays that contain patches of images and masks for testing.
 test_images_patch_dir=/mnt/hdd_2A/datasets/monuseg_test_patches_arrays/monuseg_org_X_test.npy
 test_masks_patch_dir=/mnt/hdd_2A/datasets/monuseg_test_patches_arrays/monuseg_org_y_test.npy
@@ -57,7 +57,7 @@ mask_full_test_directory=/mnt/hdd_2A/datasets/monuseg_org/test/mask/
 
 
 
-## Training Parameters
+- Training Parameters
 training=False
 gpu_device=0
 num_epochs=2
@@ -67,7 +67,7 @@ imgz_size=256
 
 
 
-## Evaluation Parameters
+- Evaluation Parameters
 ### Parameters for processing patches of images and masks:
 patch_img_size=256
 patch_step_size=128
@@ -75,13 +75,13 @@ patch_step_size=128
 resize_img=True
 resize_height_width=1024
 
-- resize_img=False if full image sizes have different width and height.
+set resize_img=False if full image sizes have different width and height.
 
 
-### Parameters for processing full-size images and masks:
+- Parameters for processing full-size images and masks:
 resize_full_images=True
 
-- if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
+if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
 
 ---
 
