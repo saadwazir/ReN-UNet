@@ -10,7 +10,7 @@
 ### Datasets
 
 #### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images.
-link: https://monuseg.grand-challenge.org/
+link: https://monuseg.grand-challenge.org/Data/
 
 #### TNBC - Triple-negative breast cancer.
 link: https://zenodo.org/records/1175282#.YMisCTZKgow
