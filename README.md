@@ -25,7 +25,8 @@ link: https://www.epfl.ch/labs/cvlab/data/data-em/
 After downloading the dataset you must generate patches of images and their corresponding masks (Ground Truth), & convert it into numpy arrays or you can use dataloaders directly inside the code. Note: The last channel of masks must have black and white (0,1) values not greyscale(0 to 255) values. 
 you can generate patches using Image_Patchyfy. Link : https://github.com/saadwazir/Image_Patchyfy
 
-### Offline Data Augmentation (it requires albumentations library link: https://albumentations.ai)
+### Offline Data Augmentation
+(it requires albumentations library link: https://albumentations.ai)
 use "offline_augmentation.py" to peneret augmented samples
 
 
