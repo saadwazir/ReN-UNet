@@ -3,6 +3,23 @@
 
 **Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**
 
+## Datasets
+
+### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images
+link: https://monuseg.grand-challenge.org/
+
+### TNBC - Triple-negative breast cancer
+link: https://monuseg.grand-challenge.org/
+
+### DSB - 2018 Data Science Bowl
+link: https://monuseg.grand-challenge.org/
+
+### EM - Electron Microscopy
+link: https://monuseg.grand-challenge.org/
+
+
+
+
 ## Training and Testing
 
 1. Edit the `config.txt` file to set training parameters and define folder paths.
