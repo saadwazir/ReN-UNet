@@ -36,11 +36,11 @@ link: https://www.epfl.ch/labs/cvlab/data/data-em/
 ---
 
 ## Configurations
-
+```ini
 ### Paths for training
 - Define paths for folders that contain patches of images and masks for training.
 
-```ini
+
 train_images_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/images/
 train_masks_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/masks/
 
