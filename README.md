@@ -72,5 +72,4 @@ set resize_img=False if full image sizes have different width and height.
 resize_full_images=True
 
 if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
----
 
