@@ -9,17 +9,13 @@
 
 ### Datasets
 
-#### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images
-link: https://monuseg.grand-challenge.org/
+#### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images. link: https://monuseg.grand-challenge.org/
 
-#### TNBC - Triple-negative breast cancer
-link: https://zenodo.org/records/1175282#.YMisCTZKgow
+#### TNBC - Triple-negative breast cancer. link: https://zenodo.org/records/1175282#.YMisCTZKgow
 
-#### DSB - 2018 Data Science Bowl
-link: https://www.kaggle.com/c/data-science-bowl-2018/data
+#### DSB - 2018 Data Science Bowl. link: https://www.kaggle.com/c/data-science-bowl-2018/data
 
-#### EM - Electron Microscopy
-link: https://www.epfl.ch/labs/cvlab/data/data-em/
+#### EM - Electron Microscopy. link: https://www.epfl.ch/labs/cvlab/data/data-em/
 
 
 
