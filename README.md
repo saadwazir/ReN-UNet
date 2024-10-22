@@ -4,11 +4,17 @@
 **Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion**
 
 
-### Setup Conda Environment
+
+
+
+#### Setup Conda Environment
 use this command to create a conda environment
 ```
-conda env create -f tf_11_env.yml
+conda env create -f renunet.yml
 ```
+
+
+
 
 
 ### Datasets
