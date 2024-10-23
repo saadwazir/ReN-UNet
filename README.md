@@ -95,7 +95,7 @@ imgz_size=256
 
 - Evaluation Parameters
   
-- Parameters for processing patches of images and masks:
+Parameters for processing patches of images and masks:
   
 ```
 patch_img_size=256
@@ -106,7 +106,7 @@ resize_img=True #set resize_img=False if full image sizes have different width a
 resize_height_width=1024
 ```
 
-- Parameters for processing full-size images and masks:
+Parameters for processing full-size images and masks:
   
 ```
 resize_full_images=True #if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
