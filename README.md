@@ -60,20 +60,25 @@ use `offline_augmentation.py` to generate augmented samples
 ## Configurations
 
 - Paths for training
+  
 Define paths for folders that contain patches of images and masks for training.
+
 ```
 train_images_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/images/
 train_masks_patch_dir=/mnt/hdd_2A/datasets/monuseg_patches_augm/masks/
 ```
 
 - Paths for testing
-- Define paths for numpy arrays that contain patches of images and masks for testing.
+  
+Define paths for numpy arrays that contain patches of images and masks for testing.
+
 ```
 test_images_patch_dir=/mnt/hdd_2A/datasets/monuseg_test_patches_arrays/monuseg_org_X_test.npy
 test_masks_patch_dir=/mnt/hdd_2A/datasets/monuseg_test_patches_arrays/monuseg_org_y_test.npy
 ```
 
-- Define paths for folders that contain full-size images and masks for testing.
+Define paths for folders that contain full-size images and masks for testing.
+
 ```
 image_full_test_directory=/mnt/hdd_2A/datasets/monuseg_org/test/image/
 mask_full_test_directory=/mnt/hdd_2A/datasets/monuseg_org/test/mask/
@@ -89,7 +94,9 @@ imgz_size=256
 ```
 
 - Evaluation Parameters
+  
 - Parameters for processing patches of images and masks:
+  
 ```
 patch_img_size=256
 patch_step_size=128
@@ -100,6 +107,7 @@ resize_height_width=1024
 ```
 
 - Parameters for processing full-size images and masks:
+  
 ```
 resize_full_images=True #if resize_full_images=False then full-size images are not scaled down, but evaluation takes more time.
 ```
