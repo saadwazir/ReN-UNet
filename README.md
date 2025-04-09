@@ -9,15 +9,15 @@
 <a href="#"><img src="https://img.shields.io/badge/MICAD_2024-2071B2?style=for-the-badge" alt="MICAD 2024"></a>
 
 
+Download Paper
+https://arxiv.org/abs/2504.06158
+
 
 ### Setup Conda Environment
 use this command to create a conda environment (all the required packages are listed in `renunet_env.yml` file)
 ```
 conda env create -f renunet_env.yml
 ```
-
-
-
 
 
 ### Datasets
