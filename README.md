@@ -2,12 +2,13 @@
 # ReN-UNet
 
 **Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion.**
-***5th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024) -  (MICCAI Society Endorsed Event)***
 
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Computational_Pathology-e06666?style=for-the-badge" alt="Computational Pathology"></a>
 <a href="#"><img src="https://img.shields.io/badge/MICAD_2024-2071B2?style=for-the-badge" alt="MICAD 2024"></a>
 
+The final version is published in the Proceedings of the 2024 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024), Lecture Notes in Electrical Engineering (LNEE), volume 1372, published by Springer Nature.
+Available at: https://doi.org/10.1007/978-981-96-3863-5_17
 
 Download Paper
 https://arxiv.org/abs/2504.06158
