@@ -12,6 +12,22 @@
 Download Paper
 https://arxiv.org/abs/2504.06158
 
+Please Cite it as following
+
+```
+@InProceedings{10.1007/978-981-96-3863-5_17,
+author="Wazir, Saad
+and Kim, Daeyoung",
+title="Rethinking the Nested U-Net Approach: Enhancing Biomarker Segmentation with Attention Mechanisms and Multiscale Feature Fusion",
+booktitle="Proceedings of 2024 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024)",
+year="2025",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="175--186",
+isbn="978-981-96-3863-5"
+}
+```
+
 
 ### Setup Conda Environment
 use this command to create a conda environment (all the required packages are listed in `renunet_env.yml` file)
