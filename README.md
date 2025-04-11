@@ -11,7 +11,7 @@
 The final version is published in the Proceedings of the 2024 International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2024), Lecture Notes in Electrical Engineering (LNEE), volume 1372, published by Springer Nature.
 Available at: https://doi.org/10.1007/978-981-96-3863-5_17
 
-Download Paper
+Download Paper:
 https://arxiv.org/abs/2504.06158
 
 Please Cite it as following
